@@ -25,7 +25,7 @@ int main(int argc, char** argv)
         // network
         .enet_port = 9234,
         .enet_host = "127.0.0.1",
-        // sound
+        // settings
         .effects_gain = 0.1,
         .music_gain = 0.1
     };
